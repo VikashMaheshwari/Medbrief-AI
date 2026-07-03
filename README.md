@@ -1,6 +1,6 @@
 # MedBrief AI — Pre-Visit Patient Briefing Agent
 
-A harness engineering learning project. An AI agent reads a synthetic patient's full medical
+An AI agent reads a synthetic patient's full medical
 record and produces a short, accurate, doctor-facing briefing — wrapped in the rules, checks,
 and feedback loops that make its output trustworthy.
 
