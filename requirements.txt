@@ -1,0 +1,9 @@
+pandas
+groq
+openai
+python-dotenv
+fastapi
+uvicorn
+httpx
+chromadb
+mcp

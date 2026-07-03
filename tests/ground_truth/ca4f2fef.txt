@@ -1,0 +1,42 @@
+Patient: Haley279 Ondricka197
+ID: ca4f2fef-0fea-5cdb-314c-9d6689cfabb0
+
+--- DEMOGRAPHICS ---
+- Female, age 20, DOB 2005-12-04
+
+--- ALLERGIES ---
+- Latex (substance) | Severity: MILD
+- Mold (organism) | Severity: MILD
+- Animal dander (substance) | Severity: MODERATE
+- Cow's milk (substance) | Severity: MODERATE
+- Eggs (edible) (substance) | Severity: MODERATE
+- Shellfish (substance) | Severity: MODERATE
+- House dust mite (organism) | Severity: not documented
+- Grass pollen (substance) | Severity: not documented
+- Tree pollen (substance) | Severity: not documented
+
+--- ACTIVE MEDICATIONS ---
+- Fexofenadine hydrochloride 30 MG (antihistamine — allergy)
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector (anaphylaxis emergency)
+- Meperidine Hydrochloride 50 MG (pain)
+
+--- ACTIVE CONDITIONS ---
+- Atopic dermatitis
+- Chronic sinusitis
+
+--- VITALS & LABS ---
+- BP: 116/68 mm[Hg] | HR: 96/min | RR: 14/min
+- BMI: 18.9 kg/m2 | Weight: 50.8 kg | Height: 163.8 cm
+- Hemoglobin: 16.0 g/dL | Hematocrit: 39.5%
+- Leukocytes: 7.6 10*3/uL | Platelets: 213.6 10*3/uL
+
+--- PAST PROCEDURES ---
+- None documented
+
+--- LAST VISIT ---
+- Ambulatory encounter for symptom, 2025-12-22
+
+--- FLAGS ---
+- CRITICAL: Multiple moderate allergies — Epinephrine auto-injector prescribed, anaphylaxis risk
+- Latex allergy — flag for any clinical procedures involving latex gloves/equipment
+- NOTE: Meperidine active — verify indication, not typically first-line for this age group

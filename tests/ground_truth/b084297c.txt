@@ -1,0 +1,65 @@
+Patient: Dorsey40 Macejkovic424
+ID: b084297c-c410-108c-9499-aa99d25e761c
+
+--- DEMOGRAPHICS ---
+- Male, age 61, DOB 1964-12-20
+
+--- ALLERGIES ---
+- None documented
+
+--- ACTIVE MEDICATIONS ---
+- 24 HR Metformin hydrochloride 500 MG (diabetes)
+- Lisinopril 10 MG (hypertension)
+- Simvastatin 20 MG (cholesterol)
+- aspirin 81 MG (cardiac)
+- Clopidogrel 75 MG (cardiac)
+- Prasugrel 10 MG (cardiac)
+- 24 HR Metoprolol succinate 100 MG (cardiac)
+- 24 HR Metoprolol succinate 200 MG (cardiac)
+- Valsartan 320 MG (hypertension)
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (cardiac)
+- Naproxen sodium 220 MG (pain)
+
+--- ACTIVE CONDITIONS ---
+- Diabetes mellitus type 2
+- Prediabetes
+- Hyperglycemia
+- Ischemic heart disease
+- Acute non-ST segment elevation myocardial infarction
+- History of myocardial infarction
+- Essential hypertension
+- Nonproliferative diabetic retinopathy (type II)
+- Neuropathy due to type 2 diabetes mellitus
+- Obstructive sleep apnea syndrome
+- Sleep disorder
+- Hypertriglyceridemia
+- Metabolic syndrome X
+- Anemia
+- Osteoarthritis of hip
+- Body mass index 30+ - obesity
+- Abnormal findings diagnostic imaging heart+coronary circulation
+
+--- VITALS & LABS ---
+- BP: 121/80 mm[Hg] | HR: 64/min | RR: 14/min
+- HbA1c: 5.5% | Glucose: 70.6 mg/dL
+- LDL: 206.2 mg/dL | HDL: 54.6 mg/dL | Cholesterol: 281.7 mg/dL | Triglycerides: 104.4 mg/dL
+- Creatinine: 0.9 mg/dL | GFR: 108.7 mL/min | Microalbumin/Creatinine: 16.8 mg/g
+- Hemoglobin: 12.1 g/dL | Hematocrit: 43.5%
+- Troponin I: 40.5 ng/L (elevated)
+- BMI: 27.9 kg/m2 | Weight: 79.6 kg | Height: 168.8 cm
+- Intraocular pressure R/L: 14.0/14.0 mm[Hg]
+
+--- PAST PROCEDURES ---
+- Percutaneous coronary intervention
+- Angiography of coronary artery
+- Cardiovascular stress testing
+- Transthoracic echocardiography
+- Colonoscopy + Rectal polypectomy
+
+--- LAST VISIT ---
+- Ambulatory check-up, 2026-04-26
+
+--- FLAGS ---
+- NOTE: Two metoprolol succinate doses active (100 MG + 200 MG) — possible duplicate/inconsistency
+- Troponin I elevated at 40.5 ng/L — cardiac monitoring warranted
+- LDL critically high at 206.2 mg/dL despite Simvastatin — statin efficacy concern

@@ -1,0 +1,72 @@
+Patient: Dallas143 Romaguera67
+ID: 4e81c560-81c5-dc7b-9127-aa5f5ba9c4c8
+
+--- DEMOGRAPHICS ---
+- Male, age 77 (DOB 1916-01-09) — DECEASED (last encounter: Death Certification 1993-07-18)
+
+--- ALLERGIES ---
+- None documented
+
+--- ACTIVE MEDICATIONS ---
+- 24 HR Metoprolol succinate 100 MG (cardiac)
+- 24 HR Metoprolol succinate 50 MG (cardiac)
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (cardiac)
+- aspirin 81 MG (cardiac)
+- Atorvastatin 40 MG (cholesterol)
+- Losartan potassium 25 MG (hypertension)
+- Hydrochlorothiazide 25 MG (hypertension)
+- amLODIPine 2.5 MG (hypertension)
+- 24 HR Tacrolimus 1 MG (immunosuppressant — post renal transplant)
+
+--- ACTIVE CONDITIONS ---
+- Ischemic heart disease
+- Acute ST segment elevation myocardial infarction
+- History of myocardial infarction
+- History of coronary artery bypass grafting
+- Essential hypertension
+- Chronic kidney disease stage 1
+- History of renal transplant
+- Disorder of kidney due to diabetes mellitus
+- Microalbuminuria due to type 2 diabetes mellitus
+- Proteinuria due to type 2 diabetes mellitus
+- Non-small cell lung cancer (TNM stage 1)
+- Suspected lung cancer
+- Carcinoma in situ of prostate
+- Neoplasm of prostate
+- Obstructive sleep apnea syndrome
+- Sleep disorder
+- Osteoporosis
+- Anemia
+- Loss of teeth
+- Body mass index 30+ - obesity
+- Medication review due
+
+--- VITALS & LABS ---
+- BP: 122/92 mm[Hg] | HR: 91/min | RR: 13/min
+- HbA1c: 5.2% | Glucose: 66.6 mg/dL
+- LDL: 53.7 mg/dL | HDL: 54.9 mg/dL | Cholesterol: 131.3 mg/dL | Triglycerides: 113.4 mg/dL
+- Creatinine: 1.5 mg/dL | GFR: 92.8 mL/min
+- Hemoglobin: 16.2 g/dL | Hematocrit: 40.2%
+- Troponin I: 86.5 ng/L (elevated)
+- BMI: 28.1 kg/m2 | Weight: 80.0 kg | Height: 168.8 cm
+
+--- PAST PROCEDURES ---
+- Percutaneous coronary intervention
+- Angiography of coronary artery
+- Transthoracic echocardiography
+- Transplant of kidney (renal transplant)
+- Renal dialysis
+- Biopsy of prostate
+- Fine needle aspiration biopsy of lung
+- Combined chemotherapy and radiation therapy
+
+--- LAST VISIT ---
+- Wellness — Death Certification, 1993-07-18
+
+--- FLAGS ---
+- NOTE: Patient is deceased — data may be historical only
+- NOTE: Two metoprolol succinate doses active (100 MG + 50 MG) — possible duplicate/inconsistency
+- Troponin I elevated at 86.5 ng/L
+- Tacrolimus active — post renal transplant immunosuppression, infection risk elevated
+- Active lung cancer + prostate cancer — oncology coordination needed
+- Medication review due

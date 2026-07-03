@@ -1,0 +1,71 @@
+Patient: Norbert530 Muller251
+ID: e60e1ddc-b54e-a6f2-14d3-bb142465e33a
+
+--- DEMOGRAPHICS ---
+- Male, age 73, DOB 1952-11-22
+
+--- ALLERGIES ---
+- None documented
+
+--- ACTIVE MEDICATIONS ---
+- 24 HR Metformin hydrochloride 500 MG (diabetes)
+- Simvastatin 20 MG (cholesterol)
+- Clopidogrel 75 MG (cardiac)
+- 24 HR Metoprolol succinate 100 MG (cardiac)
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (cardiac)
+- Hydrochlorothiazide 25 MG (hypertension)
+- amLODIPine 2.5 MG (hypertension)
+- 72 HR Fentanyl 0.025 MG/HR Transdermal System (pain)
+- 12 HR Hydrocodone Bitartrate 10 MG (pain)
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG (pain)
+
+--- ACTIVE CONDITIONS ---
+- Sepsis
+- Septic shock
+- Overlapping malignant neoplasm of colon
+- Polyp of colon
+- Ischemic heart disease
+- History of coronary artery bypass grafting
+- Diabetes mellitus type 2
+- Prediabetes
+- Hyperglycemia
+- Essential hypertension
+- Hypertriglyceridemia
+- Metabolic syndrome X
+- Neuropathy due to type 2 diabetes mellitus
+- Anemia
+- Chronic pain
+- Chronic neck pain
+- Body mass index 30+ - obesity
+- Abnormal findings diagnostic imaging heart+coronary circulation
+- Medication review due
+
+--- VITALS & LABS ---
+- BP: 110/62 mm[Hg] | HR: 83/min | RR: 15/min
+- HbA1c: 6.1% | Glucose: 67.9 mg/dL
+- LDL: 73.6 mg/dL | HDL: 57.5 mg/dL | Cholesterol: 157.8 mg/dL | Triglycerides: 133.5 mg/dL
+- Creatinine: 2.6 mg/dL | GFR: 6.7 mL/min (critically low)
+- Microalbumin/Creatinine: 3.8 mg/g
+- Hemoglobin: 13.7 g/dL | Hematocrit: 25.3% (low)
+- BMI: 30.4 kg/m2 | Weight: 107.2 kg | Height: 187.9 cm
+
+--- PAST PROCEDURES ---
+- Angiography of coronary artery
+- Echocardiography
+- Referral to cardiac surgery service
+- Colonoscopy
+- Rectal polypectomy
+- Biopsy of colon
+- Partial resection of colon
+- Combined chemotherapy and radiation therapy
+
+--- LAST VISIT ---
+- Ambulatory encounter for problem, 2026-02-11
+
+--- FLAGS ---
+- CRITICAL: Active sepsis + septic shock — urgent status
+- CRITICAL: GFR 6.7 mL/min — severe kidney failure, near end-stage
+- Active colon cancer — oncology coordination needed
+- Hematocrit 25.3% — severely low, anemia management needed
+- Three concurrent opioid/pain medications (Fentanyl + Hydrocodone x2) — review for safety
+- Medication review due

@@ -1,0 +1,49 @@
+Patient: Cheree978 Windler79
+ID: d6fc4f34-d0ac-a09b-94e4-01fc4a44d3a8
+
+--- DEMOGRAPHICS ---
+- Female, age 70, DOB 1955-04-28
+
+--- ALLERGIES ---
+- None documented
+
+--- ACTIVE MEDICATIONS ---
+- 24 HR Metformin hydrochloride 500 MG (diabetes)
+- Simvastatin 20 MG (cholesterol)
+- Clopidogrel 75 MG (cardiac)
+- 24 HR Metoprolol succinate 100 MG (cardiac)
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray (cardiac)
+
+--- ACTIVE CONDITIONS ---
+- Diabetes mellitus type 2
+- Hyperglycemia
+- Nonproliferative diabetic retinopathy (type II)
+- Neuropathy due to type 2 diabetes mellitus
+- Ischemic heart disease
+- Hypertriglyceridemia
+- Metabolic syndrome X
+- Body mass index 30+ - obesity
+- Abnormal findings diagnostic imaging heart+coronary circulation
+- Medication review due
+
+--- VITALS & LABS ---
+- BP: 87/67 mm[Hg] | HR: 89/min | RR: 15/min
+- HbA1c: 6.1% | Glucose: 95.3 mg/dL
+- LDL: 141.6 mg/dL | HDL: 53.1 mg/dL | Cholesterol: 215.6 mg/dL | Triglycerides: 104.2 mg/dL
+- Creatinine: 1.0 mg/dL | GFR: 68.8 mL/min | Microalbumin/Creatinine: 5.3 mg/g
+- Hemoglobin: 13.8 g/dL | Hematocrit: 48.9%
+- BMI: 30.4 kg/m2 | Weight: 84.7 kg | Height: 166.9 cm
+- Intraocular pressure R/L: 17.0/17.0 mm[Hg]
+
+--- PAST PROCEDURES ---
+- Percutaneous coronary intervention
+- Angiography of coronary artery
+- Colonoscopy
+
+--- LAST VISIT ---
+- Ambulatory ophthalmic examination, 2026-03-11
+
+--- FLAGS ---
+- NOTE: Systolic BP 87 mm[Hg] — hypotension, monitor closely
+- Medication review due — flag for prescriber
+- GFR 68.8 — mild kidney function reduction, monitor
