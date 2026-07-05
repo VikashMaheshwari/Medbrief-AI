@@ -30,10 +30,14 @@ def get_patient_summary(patient_id: str) -> str:
         conditions = [c.get("DESCRIPTION", "") for c in record.get("active_conditions", [])]
         allergies = [a.get("DESCRIPTION", "") for a in record.get("allergies", [])]
 
+        # Return COMPLETE lists — truncating here would guarantee the first
+        # briefing draft omits items and waste audit-loop iterations. The
+        # harness validates completeness downstream; the data feed must not
+        # be the reason it fails.
         return (
             f"Patient: {name} | DOB: {dob}\n"
-            f"Conditions ({len(conditions)}): {', '.join(conditions[:5])}\n"
-            f"Medications ({len(meds)}): {', '.join(meds[:5])}\n"
+            f"Conditions ({len(conditions)}): {', '.join(conditions)}\n"
+            f"Medications ({len(meds)}): {', '.join(meds)}\n"
             f"Allergies ({len(allergies)}): {', '.join(allergies) if allergies else 'None'}"
         )
     except Exception as e:

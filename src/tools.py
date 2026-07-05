@@ -7,14 +7,21 @@ from datetime import date, datetime
 # ---------------------------------------------------------------------------
 
 def calculate_age(birthdate: str) -> str:
-    # Calculates exact age in years from a birthdate string (YYYY-MM-DD)
-    try:
-        dob = datetime.strptime(birthdate, "%Y-%m-%d").date()
-        today = date.today()
-        age = today.year - dob.year - ((today.month, today.day) < (dob.month, dob.day))
-        return f"{age} years old"
-    except Exception as e:
-        return f"Could not calculate age: {e}"
+    # Calculates exact age in years from a birthdate string.
+    # Accepts ISO (YYYY-MM-DD) and US (M/D/YYYY) — spreadsheet apps silently
+    # rewrite Synthea's ISO dates to US format when the CSV is re-saved.
+    dob = None
+    for fmt in ("%Y-%m-%d", "%m/%d/%Y"):
+        try:
+            dob = datetime.strptime(birthdate.strip(), fmt).date()
+            break
+        except ValueError:
+            continue
+    if dob is None:
+        return f"Could not calculate age: unrecognized date format '{birthdate}'"
+    today = date.today()
+    age = today.year - dob.year - ((today.month, today.day) < (dob.month, dob.day))
+    return f"{age} years old"
 
 
 # ---------------------------------------------------------------------------

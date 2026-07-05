@@ -2,6 +2,12 @@
 .env
 .env.*
 
+# Local assistant/session config
+.claude/
+
+# Personal course docs — not part of the submission
+Patient_Briefing_Agent_Project_Spec.docx
+
 # Python
 __pycache__/
 *.py[oc]

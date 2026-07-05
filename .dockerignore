@@ -1,0 +1,12 @@
+# Never copy secrets or local junk into the image
+.env
+.env.*
+.git
+.venv
+my_env
+frontend/node_modules
+frontend/.next
+chroma_db
+logs
+__pycache__
+*.pyc

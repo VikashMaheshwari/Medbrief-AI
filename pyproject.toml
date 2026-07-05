@@ -9,3 +9,8 @@ dependencies = [
     "pandas>=3.0.3",
     "python-dotenv>=1.2.2",
 ]
+
+[tool.uv.workspace]
+members = [
+    "venv",
+]
